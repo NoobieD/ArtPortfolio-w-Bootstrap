@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Send+Flowers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+header>div {
+    padding: 50px;
+    font-family: 'Send Flowers', cursive;
+}
+
+nav {
+    font-family: 'Send Flowers', cursive;
+}
+
+hr {
+    background-color: rgba(0, 0, 0, 0.75);
+}
